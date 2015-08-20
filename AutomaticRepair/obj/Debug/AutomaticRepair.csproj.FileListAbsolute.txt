@@ -1,0 +1,28 @@
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\bin\Debug\AutomaticRepair.exe.config
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\bin\Debug\AutomaticRepair.exe
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\bin\Debug\AutomaticRepair.pdb
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\AutomaticRepair.csprojResolveAssemblyReference.cache
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\MainWindow.g.cs
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\App.g.cs
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\AutomaticRepair_MarkupCompile.cache
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\AutomaticRepair_MarkupCompile.lref
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\MainWindow.baml
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\AutomaticRepair.g.resources
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\AutomaticRepair.Properties.Resources.resources
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\AutomaticRepair.csproj.GenerateResource.Cache
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\AutomaticRepair.exe
+C:\Users\John\AppData\Local\Temporary Projects\AutomaticRepair\obj\Debug\AutomaticRepair.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\bin\Debug\AutomaticRepair.exe.config
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\bin\Debug\AutomaticRepair.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\bin\Debug\AutomaticRepair.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\bin\Debug\System.Net.Http.dll
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\App.g.cs
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\AutomaticRepair_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\AutomaticRepair_MarkupCompile.lref
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\AutomaticRepair.g.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\AutomaticRepair.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\AutomaticRepair.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\AutomaticRepair.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\AutomaticRepair\AutomaticRepair\obj\Debug\AutomaticRepair.pdb
